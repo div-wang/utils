@@ -90,5 +90,12 @@ js：
         fl : 'float_layer'      //划过显示区块ID
     )
 ```  
+###hoverImg.js（图片放大镜）
+图片查看弹层，可拖拽
+#####用法：
+```javascript
+    // 也需要查看图片的父窗口
+    drugImg('.list')
+```  
 #####bug：
 如果您有更好的意见请提交[issues](https://github.com/div-wang/Div-widget/issues) ，感谢！
