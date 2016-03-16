@@ -90,7 +90,7 @@ js：
         fl : 'float_layer'      //划过显示区块ID
     )
 ```  
-###drugImg.js（图片放大镜）
+###drugImg.js（查看图片的弹层）
 图片查看弹层，可拖拽
 #####用法：
 ```javascript
